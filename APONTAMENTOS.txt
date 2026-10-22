@@ -1,3 +1,3 @@
 Aprendi novos comandos para usar no Bash.
 Criei um repositório no GitHub e meti lá um README.md.
-Aprendi a usar o Bash mais profundamente.
+Aprofundei no Bash.
