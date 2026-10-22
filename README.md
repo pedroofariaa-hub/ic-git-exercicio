@@ -1,4 +1,4 @@
-# Exercício de IC
+# Projeto de Introdução à Computação - Versão B
 ### Exercícios essenciais para aprendermos e meter o nosso conhecimento em prática. 
 
 # Funcionalidades
