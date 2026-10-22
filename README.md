@@ -5,5 +5,10 @@
 ### Isto é um testing
 ### meter em prática 
 
+<<<<<<< HEAD
 # O que aprendi 
 ### Aprendi muito
+=======
+# O que aprendi
+### Aprendi a fazer um clone da pasta original 
+>>>>>>> d47ff58b531bbb80213ffec8d7fdf67330040648
