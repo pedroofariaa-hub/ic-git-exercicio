@@ -4,3 +4,6 @@
 # Funcionalidades
 ### Isto é um testing
 ### meter em prática 
+
+# O que aprendi
+### Aprendi a fazer um clone da pasta original 
